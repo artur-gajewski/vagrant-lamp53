@@ -1,4 +1,4 @@
-Vagrant setup for Linux, Apache2, MySQL and PHP 5.4  
+Vagrant setup for Linux, Apache2, MySQL and PHP 5.3  
 ===================================================
 
 Welcome to the repository for Vagrant skeleton package. This skeleton is the starting point for building your development environment in a virtual server.
